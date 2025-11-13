@@ -8,7 +8,7 @@
    "rev": "5cfb76c09d66f8a8fb171d7808327b3d4e0339f6",
    "name": "Paperproof",
    "manifestFile": "lake-manifest.json",
-   "inputRev": "main",
+   "inputRev": "v2.4.0-lean",
    "inherited": false,
    "configFile": "lakefile.lean"},
   {"url": "https://github.com/leanprover-community/mathlib4",
